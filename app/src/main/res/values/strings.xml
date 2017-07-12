@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Graf Media</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_network_gallery">NetworkGalleryActivity</string>
+    <string name="title_activity_sd_card_gallery">SdCardGalleryActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="graf_media">Студия <b>“GRAF MEDIA”</b>запустила новое мобильное приложение “моментальное электронное
+
+фото”. Уникальность этого приложения в том, что вы можете скачать свое фото сразу и бесплатно.
+
+Это позволяет вам мгновенно получать качественные и красивые фотографии. Вам больше не
+
+нужно покупать фотографии в бумажном виде. “Моментальное электронное фото” открывает
+
+новые возможности хранения фотографий в высоком качестве. Приложение работает по всему
+
+Кыргызстану. Также она доступна для частных фотографов и личных пользователей.</string>
+    <string name="graf_media2"><b>Graf media</b> – умеем удивлять!</string>
+    <string name="graf_m3"><b>ВСЕ ПРАВА ЗАЩИЩЕНЫ!</b></string>
+</resources>
